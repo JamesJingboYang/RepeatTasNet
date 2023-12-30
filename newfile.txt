@@ -1,8 +1,1 @@
-egs/*/data
-egs/*/exp
-
-tools/sph2pipe_v2.5
-tools/create-speaker-mixtures
-
-nohup.out
-__pycache__
+this is a new file
