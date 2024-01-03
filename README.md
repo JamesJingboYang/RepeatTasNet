@@ -61,3 +61,4 @@ $ bash run.sh --id "0,1"
 #### How to solve out of memory?
 - When happened in training, try to reduce `batch_size` or use more GPU. `$ bash run.sh --batch_size <lower-value>`
 - When happened in cross validation, try to reduce `cv_maxlen`. `$ bash run.sh --cv_maxlen <lower-value>`
+
